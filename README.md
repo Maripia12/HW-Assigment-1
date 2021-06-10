@@ -1,4 +1,4 @@
-# Homework:
+# Project:
 
 Marketing company requesting to make their existing site more accessible.
 
@@ -18,6 +18,7 @@ Refactoring the existing code by making it a little cleaner without changing wha
 
 - Added Heading attributes in sequential order.
 
+![Image link](./assets/images/01-html-css-git-homework-demo.png)
 ---
 
 # Contributors
@@ -26,3 +27,4 @@ Refactoring the existing code by making it a little cleaner without changing wha
 
 - https://www.w3schools.com/tags/tag_header.asp
 
+- https://www.w3schools.com/html/html5_semantic_elements.asp

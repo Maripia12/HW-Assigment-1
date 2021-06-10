@@ -1,8 +1,12 @@
+/* Universal Selector */
+
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
+
+/* Elements Selectors */
 
 body {
   background-color: #d9dcd6;
@@ -50,6 +54,8 @@ a {
 p {
   font-size: 16px;
 }
+
+/* Class Selectors */
 
 .hero {
   height: 800px;
